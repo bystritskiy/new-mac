@@ -5,11 +5,11 @@ List of the things to do on a new Mac
 ## Setup shell
 
 - [ ] Install [homebrew](https://brew.sh)
-- [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile)
 - [ ] Install [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 
 
 ## Base software
 
+- [ ] Chrome
 - [ ] Alfred
 - [ ] Bartender
 - [ ] Paste
@@ -23,12 +23,12 @@ List of the things to do on a new Mac
 - [ ] Telegram
 - [ ] Spark
 - [ ] Amphetamine
-- [ ] Spark
 
 ## Developer software
 
 - [ ] Xcode
 - [ ] Visual Studio Code
+- [ ] Charles
 - [ ] SimPholders
 - [ ] Sip
 
