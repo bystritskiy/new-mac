@@ -16,13 +16,14 @@ List of the things to do on a new Mac
 - [ ] Evernote
 - [ ] RescueTime
 - [ ] Adguard
-- [ ] Office
+- [ ] Microsoft Office
 
 ## Base software (Mac App Store)
 
 - [ ] Telegram
 - [ ] Spark
 - [ ] Amphetamine
+- [ ] RAR Extractor Lite
 
 ## Developer software
 
@@ -31,6 +32,7 @@ List of the things to do on a new Mac
 - [ ] Charles
 - [ ] SimPholders
 - [ ] Sip or Pick Pick
+- [ ] Figma or Zeplin
 
 
 
