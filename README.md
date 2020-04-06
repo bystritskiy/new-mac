@@ -30,7 +30,7 @@ List of the things to do on a new Mac
 - [ ] Visual Studio Code
 - [ ] Charles
 - [ ] SimPholders
-- [ ] Sip
+- [ ] Sip or Pick Pick
 
 
 
