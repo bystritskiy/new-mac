@@ -12,9 +12,9 @@ List of the things to do on a new Mac
 - [ ] Chrome
 - [ ] Alfred
 - [ ] Bartender
-- [ ] Paste
+- [ ] Maccy
+- [ ] Stats
 - [ ] Evernote
-- [ ] RescueTime
 - [ ] Adguard
 - [ ] Microsoft Office
 
@@ -22,6 +22,7 @@ List of the things to do on a new Mac
 
 - [ ] Telegram
 - [ ] Spark
+- [ ] Things
 - [ ] Amphetamine
 - [ ] RAR Extractor Lite
 
@@ -29,13 +30,14 @@ List of the things to do on a new Mac
 
 - [ ] Xcode
 - [ ] Visual Studio Code
+- [ ] Sourcetree
 - [ ] Charles
 - [ ] SimPholders
 - [ ] Sip or Pick Pick
 - [ ] Figma or Zeplin
 
 ## Other
-- [] HandBrake: Open Source Video Transcoder
+- [ ] HandBrake: Open Source Video Transcoder
 
 
 
