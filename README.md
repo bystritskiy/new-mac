@@ -34,6 +34,8 @@ List of the things to do on a new Mac
 - [ ] Sip or Pick Pick
 - [ ] Figma or Zeplin
 
+## Other
+- [] HandBrake: Open Source Video Transcoder
 
 
 
