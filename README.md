@@ -14,7 +14,7 @@ List of the things to do on a new Mac
 - [ ] Bartender
 - [ ] Maccy
 - [ ] Stats
-- [ ] Evernote
+- [ ] [Browserosaurus](https://github.com/will-stone/browserosaurus)
 - [ ] Adguard
 - [ ] Microsoft Office
 
