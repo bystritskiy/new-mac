@@ -29,6 +29,7 @@ List of the things to do on a new Mac
 ## Developer software
 
 - [ ] Xcode
+- [ ] [DevCleaner for Xcode](https://github.com/vashpan/xcode-dev-cleaner)
 - [ ] Visual Studio Code
 - [ ] Sourcetree
 - [ ] Charles
